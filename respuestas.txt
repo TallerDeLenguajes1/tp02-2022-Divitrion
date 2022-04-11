@@ -1,0 +1,1 @@
+No se puede ver el archivo tp2_1_2.c porque estamos en otra branch, no es que el archivo haya desaparecido, solo no se muestra para comidad del usuario.
